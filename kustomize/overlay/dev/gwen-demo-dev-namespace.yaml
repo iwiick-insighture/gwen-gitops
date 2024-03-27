@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gwen-demo-dev
+  labels:
+    environmentId: env_00e958f2-4209-43c1-b941-7d24bf338995
+    projectId: project_8c277afa-6da6-43c2-baaa-25f964829909
+    projectName: gwen-demo
+    environmentName: dev
+    organizationId: org_d2ea4601-f582-4e43-921d-6a60eea704b3
